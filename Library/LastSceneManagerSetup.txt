@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/bloques resguardo.unity
+  isLoaded: 1
+  isActive: 1

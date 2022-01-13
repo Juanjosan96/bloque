@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: dbd2e5f006aadff4f862c117caa34239
+timeCreated: 1519303078
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - audiosource: {instanceID: 0}
+  - completado: {instanceID: 0}
+  - GameOver: {instanceID: 0}
+  - volumen: {fileID: 8300000, guid: a0522df4c0000bf488d81a8f452a2cb5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
